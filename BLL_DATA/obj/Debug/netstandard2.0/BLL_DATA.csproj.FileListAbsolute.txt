@@ -1,0 +1,6 @@
+C:\Users\Marco Tulio\source\repos\WarehouseFind\BLL_DATA\bin\Debug\netstandard2.0\BLL_DATA.deps.json
+C:\Users\Marco Tulio\source\repos\WarehouseFind\BLL_DATA\bin\Debug\netstandard2.0\BLL_DATA.dll
+C:\Users\Marco Tulio\source\repos\WarehouseFind\BLL_DATA\obj\Debug\netstandard2.0\BLL_DATA.csprojAssemblyReference.cache
+C:\Users\Marco Tulio\source\repos\WarehouseFind\BLL_DATA\obj\Debug\netstandard2.0\BLL_DATA.csproj.CoreCompileInputs.cache
+C:\Users\Marco Tulio\source\repos\WarehouseFind\BLL_DATA\obj\Debug\netstandard2.0\BLL_DATA.AssemblyInfoInputs.cache
+C:\Users\Marco Tulio\source\repos\WarehouseFind\BLL_DATA\obj\Debug\netstandard2.0\BLL_DATA.AssemblyInfo.cs
